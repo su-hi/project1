@@ -6,6 +6,7 @@ public class newgit {
 		// TODO Auto-generated method stub
 		int x=4;
 		int y =7;
+		int z=9;
 	}
 
 }
